@@ -15,7 +15,8 @@ Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola)
 ## Seja um dos contribuidores
 
 Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma issue.
-Além disso, o repositório apenas cumprirá o seu propósito com a participação de todos. <b> Contribua! </b>
+<br>
+O repositório apenas cumprirá o seu propósito com a participação de todos. <b> Contribua! </b>
 
 #### Passos para se tornar um contribuidor
 
