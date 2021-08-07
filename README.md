@@ -1,12 +1,12 @@
 # Biblioteca de Provas e Materiais UCAN (Eng. Informática)
 
-Este repositório tem o objectivo de armazenar exemplos de provas passadas e materiais que podem ajudar os estudantes a se prepararem tais cadeiras.
+Este repositório tem o objectivo de armazenar exemplos de provas passadas e materiais, que podem ajudar os estudantes a se prepararem tais cadeiras.
 
-## Movitos para a sua criação
+## Movitos de criação
 
-Tendo em vista que os estudantes passam por várias situações dentro do ressinto acadêmico, e andam a procura de uma busca incessante de recursos que os possam ajudar a concluir as cadeiras que fazem, recorrendo ficar atrás de colegas que têm conhecimento da materia, colegas com materiais bons e provas de exemplos para se ter uma noção do que é esperado dele na resolução dos problemas.
+Tendo em vista que os estudantes passam por várias situações dentro do ressinto acadêmico, e andam a procura de uma busca incessante de recursos que os possam ajudar a concluir as cadeiras que fazem, recorrendo ficar atrás de colegas que têm conhecimento da matéria, colegas com materiais bons e provas de exemplos para se ter uma noção do que é esperado dele na resolução dos problemas.
 
-Por estes e muitos outros motivos, foi decidido a criação deste repositório, cujo no qual serão alocados desde provas a materiais de apoio, listas de exercícios, links úteis e tudo que possa ajudar ou facilitar a vida do estudante dentro a academia.
+Por estes e muitos outros motivos, foi decidido a criação deste repositório, cujo no qual serão alocados desde provas a materiais de apoio, listas de exercícios, links úteis e tudo que possa ajudar ou facilitar a vida do estudante dentro da academia.
 
 ## Público Alvo
 
@@ -66,6 +66,6 @@ Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola)
 
 
 <br><br>
-Ideia de *Creuma Kuzola* e de *Eufránio Diogo*.
 
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> :)
 
