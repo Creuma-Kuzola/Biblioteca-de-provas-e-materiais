@@ -19,7 +19,7 @@ Além disso, o repositório apenas cumprirá o seu propósito com a participaç�
 
 #### Passos para se tornar um contribuidor
 
-1 - Faça Fork neste repositório <br>
+1 - Faça Fork deste repositório <br>
 2 - Solicite o pull request <br>
 3 - Insira um pequeno sobre , sobre o que você colocou <br>
 4 - Tenha o sorriso no rosto :) 
