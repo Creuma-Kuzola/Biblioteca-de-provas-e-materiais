@@ -17,12 +17,12 @@ Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola)
 Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma issue.
 Além disso, o repositório apenas cumprirá o seu propósito com a participação de todos. <b> Contribua! </b>
 
-### Passos para se tornar um contribuidor
+#### Passos para se tornar um contribuidor
 
-1 - Faça Fork neste repositório
-2 - Solicite o pull request
-3 - Insira um pequeno sobre , sobre o que você colocou
-4 - Tenha o sorriso no rosto :)
+1 - Faça Fork neste repositório <br>
+2 - Solicite o pull request <br>
+3 - Insira um pequeno sobre , sobre o que você colocou <br>
+4 - Tenha o sorriso no rosto :) 
 
 ## Navegação
 
