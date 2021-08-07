@@ -76,7 +76,5 @@ Além disso, o repositório apenas cumprirá o seu propósito com a participaç�
     - xxx
     - xxx
 
-<br
-
 Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻
 
