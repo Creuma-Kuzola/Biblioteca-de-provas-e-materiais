@@ -12,6 +12,18 @@ Por estes e muitos outros motivos, foi decidido a criação deste repositório, 
 
 Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola).
 
+## Seja um dos contribuidores
+
+Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma issue.
+Além disso, o repositório apenas cumprirá o seu propósito com a participação de todos. <b> Contribua! </b>
+
+### Passos para se tornar um contribuidor
+
+1 - Faça Fork neste repositório
+2 - Solicite o pull request
+3 - Insira um pequeno sobre , sobre o que você colocou
+4 - Tenha o sorriso no rosto :)
+
 ## Navegação
 
 - 1º Ano -> <a href="1º Ano">AQUI</a>
@@ -64,8 +76,7 @@ Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola)
     - xxx
     - xxx
 
+<br
 
-<br><br>
-
-Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> :)
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻
 
