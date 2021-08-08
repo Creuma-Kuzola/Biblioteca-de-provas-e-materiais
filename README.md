@@ -79,20 +79,30 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
 
 ## Contribuidores
 
-<a style="display: inline-block; color: #e88300;" href="https://github.com/Creuma-Kuzola">
-<img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
-<p>@CreumaKuzola</p>
-</a>
+Muito obrigados a todos os contribuidores, vcs fazem a diferença para vida de pelo menos um estudante que consegui melhor o seu desempenho em uma cadeira.
 
-<a style="display: inline-block; color: #e88300;" href="https://github.com/TyperGuy">
-<img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
-<p>@TyperGuy</p>
-</a>
 
-<a style="display: inline-block; color: #e88300;" href="https://github.com/EufranioDiogo">
-<img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
-<p>@EufranioDiogo</p>
-</a>
+<ul style="list-style: none; display: flex;">
+  <li>
+    <a style="margin: 0 5px 0;" href="https://github.com/Creuma-Kuzola">
+    <img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
+    <p>@CreumaKuzola</p>
+    </a>
+  </li>
+  <li>
+    <a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
+    <img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+    <p>@TyperGuy</p>
+    </a>
+  </li>
+  <li>
+    <a style="margin: 0 5px 0;" href="https://github.com/EufranioDiogo">
+    <img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
+    <p>@EufranioDiogo</p>
+    </a>
+  </li>
+</ul>
+
 
 
 Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 2021, ano que faziamos o 3 ano e foi dos mais duros e bem agregador.
