@@ -77,5 +77,23 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
     - xxx
     - xxx
 
+## Contribuidores
+
+<a href="https://github.com/Creuma-Kuzola">
+<img src="https://avatars.githubusercontent.com/u/58623474?v=4">
+@CreumaKuzola
+</a>
+
+<a href="https://github.com/TyperGuy">
+<img src="https://avatars.githubusercontent.com/u/60783000?v=4">
+@TyperGuy
+</a>
+
+<a href="https://github.com/EufranioDiogo">
+<img src="https://avatars.githubusercontent.com/u/62727833?v=4">
+@EufranioDiogo
+</a>
+
+
 Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻
 
