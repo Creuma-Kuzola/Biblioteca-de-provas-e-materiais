@@ -96,5 +96,5 @@ Muito obrigado a todos os contribuidores, vocês fazem a diferença na vida de p
 <img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
 </a>
 <br><br>
-Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 2021, ano que faziamos o 3º ano. Foi o mais duro até agora e também o mais agregador mais duros e bem agregador.
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 8 de Agosto de 2021
 
