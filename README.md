@@ -79,7 +79,7 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
 
 ## Contribuidores
 
-Muito obrigados a todos os contribuidores, vcs fazem a diferença para vida de pelo menos um estudante que consegui melhor o seu desempenho em uma cadeira.
+Muito obrigado a todos os contribuidores, vocês fazem a diferença na vida de pelo menos um <b> estudante! </b>
 
 
 
@@ -88,16 +88,17 @@ Muito obrigados a todos os contribuidores, vcs fazem a diferença para vida de p
 <img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
 </a>
 
-<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
-<img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
-</a>
-
 <a style="margin: 0 5px 0;" href="https://github.com/EufranioDiogo">
 <img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
 </a>
 
+<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
+<img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+</a>
 
 
 
-Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 2021, ano que faziamos o 3 ano e foi dos mais duros e bem agregador.
+
+
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 2021, ano que faziamos o 3º ano. Foi o mais duro até agora e também o mais agregador mais duros e bem agregador.
 
