@@ -82,26 +82,20 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
 Muito obrigados a todos os contribuidores, vcs fazem a diferença para vida de pelo menos um estudante que consegui melhor o seu desempenho em uma cadeira.
 
 
-<ul style="list-style: none; display: flex;">
-  <li>
-    <a style="margin: 0 5px 0;" href="https://github.com/Creuma-Kuzola">
-    <img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
-    <p>@CreumaKuzola</p>
-    </a>
-  </li>
-  <li>
-    <a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
-    <img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
-    <p>@TyperGuy</p>
-    </a>
-  </li>
-  <li>
-    <a style="margin: 0 5px 0;" href="https://github.com/EufranioDiogo">
-    <img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
-    <p>@EufranioDiogo</p>
-    </a>
-  </li>
-</ul>
+
+
+<a style="margin: 0 5px 0;" href="https://github.com/Creuma-Kuzola">
+<img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
+</a>
+
+<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
+<img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+</a>
+
+<a style="margin: 0 5px 0;" href="https://github.com/EufranioDiogo">
+<img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
+</a>
+
 
 
 
