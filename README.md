@@ -79,21 +79,21 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
 
 ## Contribuidores
 
-<a href="https://github.com/Creuma-Kuzola">
-<img src="https://avatars.githubusercontent.com/u/58623474?v=4">
-@CreumaKuzola
+<a style="display: inline-block; color: #e88300;" href="https://github.com/Creuma-Kuzola">
+<img width="175" src="https://avatars.githubusercontent.com/u/58623474?v=4">
+<p>@CreumaKuzola</p>
 </a>
 
-<a href="https://github.com/TyperGuy">
-<img src="https://avatars.githubusercontent.com/u/60783000?v=4">
-@TyperGuy
+<a style="display: inline-block; color: #e88300;" href="https://github.com/TyperGuy">
+<img width="175" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+<p>@TyperGuy</p>
 </a>
 
-<a href="https://github.com/EufranioDiogo">
-<img src="https://avatars.githubusercontent.com/u/62727833?v=4">
-@EufranioDiogo
+<a style="display: inline-block; color: #e88300;" href="https://github.com/EufranioDiogo">
+<img width="175" src="https://avatars.githubusercontent.com/u/62727833?v=4">
+<p>@EufranioDiogo</p>
 </a>
 
 
-Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 2021, ano que faziamos o 3 ano e foi dos mais duros e bem agregador.
 
