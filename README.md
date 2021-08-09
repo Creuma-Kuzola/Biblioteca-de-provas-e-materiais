@@ -99,5 +99,5 @@ Muito obrigado a todos os contribuidores, vocês fazem a diferença na vida de p
 
 ## Criadores 
 
-Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 8 de Agosto de 2021
+Criado por <a href="https://github.com/Creuma-Kuzola">Creuma Kuzola</a>  e  <a href="https://github.com/EufranioDiogo">Eufránio Diogo</a> 💻 em 4 de Agosto de 2021
 
