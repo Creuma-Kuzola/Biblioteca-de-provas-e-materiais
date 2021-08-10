@@ -27,6 +27,7 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
 
 ## Navegação
 
+
 - 1º Ano -> <a href="1º Ano">AQUI</a>
   - 1º Semestre -> <a href="1º Ano/1º Semestre">AQUI</a>
     - Analise Matemática 1 -> <a href="1º Ano/1º Semestre/Analise Matemática 1">AQUI</a>
@@ -58,7 +59,7 @@ O repositório apenas cumprirá o seu propósito com a participação de todos. 
     - Sistemas Multimidias -> <a href="2 3º Ano/1a>">AQUI</a>
     - Base de Dados 2 -> <a href="2 3º Ano/1a>">AQUI</a>
     - Engenharia de Redes -> <a href="#">AQUI</a>
-    - Computação Gráfica -> <a2 3º 2no/1a>href="#">AQUI</a2>
+    - Computação Gráfica -> <a href="#">AQUI</a>
   - 2º Semestre -> <a href="2º Semestre">AQUI</a>
     - Bibliotecas Digitais 1 -> <a href="#">AQUI</a>
     - Sistemas Distribuidos e Paralelos 1 -> <a href="#">AQUI</a>
