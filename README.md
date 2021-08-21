@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/images/undraw_Bookshelves_re_lxoy.svg" width="300">
+</p>
+
 # Biblioteca de Provas e Materiais UCAN (Eng. Informática)
 
 Este repositório tem o objectivo de armazenar exemplos de provas passadas e materiais, que podem ajudar os estudantes a se prepararem tais cadeiras.
@@ -12,20 +16,13 @@ Por estes e muitos outros motivos, foi decidido a criação deste repositório, 
 
 Estudantes de Engenharia Informática da UCAN (Universidade Católica de Angola).
 
-## Seja um dos contribuidores
+# Contribuidores
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma issue.
-<br>
-O repositório apenas cumprirá o seu propósito com a participação de todos. <b> Contribua! </b>
+Seja um dos contribuidores e deixa o seu rosto na UCAN, ajudando os nossos queridos e lutadores colegas.
 
-#### Passos para se tornar um contribuidor
+Acesse o nosso arquivo de contribuição: **[Contribuição](./CONTRIBUTING.md)**
 
-1 - Faça Fork deste repositório <br>
-2 - Solicite o pull request <br>
-3 - Insira um pequeno sobre , sobre o que você colocou <br>
-4 - Tenha o sorriso no rosto :) 
-
-## Navegação
+# Estruturação do conteúdo
 
 
 - 1º Ano -> <a href="1º Ano">AQUI</a>

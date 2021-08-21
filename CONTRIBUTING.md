@@ -1,5 +1,12 @@
-# :smile: Bem-vindo ao nosso repositório de provas e materiais
+<p align="center">
+  <img src="./assets/images/undraw_developer_activity_bv83.svg" width="300">
+</p>
 
+# Bem-vindo ao nossa sessão especial para contribuidores
+
+## Deseja contribuir?
+
+Se sim, saiba que é bem simples e fácil de o fazer. Ajudar o próximo é das coisas mais gratificantes que existem.
 ## Quem pode contribuir?
 
 Todo mundo pode ser um contribuidor do repositório, mas para isso só tem de atender algumas regras para conseguir contribuir de maneira simples e organizada.
@@ -21,6 +28,29 @@ Exemplo:
 
 `git commit -m "Fundamentos de Programação 1:Frequências:Adicionei mais 4 provas de frequências"`
 
+
+## Exemplo de Descrição
+
+```
+2º ano 
+ 	-> 1º Semestre
+            -> Matemática Discreta 
+            	-> Materiais
+            		-> Ficheiros
+            	-> Exercícios 
+            		-> Ficheiros
+            	-> Projectos
+            		-> Projecto Realizado por ti
+            
+           -> Sistemas Digitais 
+           		-> Materiais
+           			-> Ficheiros
+           		-> Exercícios
+           			-> Ficheiros
+
+```
+
+
 ## Organização do repositório
 
 O repositório está organizado da seguinte forma:
@@ -33,8 +63,5 @@ O repositório está organizado da seguinte forma:
             - Frequências
             - Exames
             - Recursos
-            - Materiais de apoio
+            - Materiais
 
-Tendo uma estrutura identica a essa no final:
-
-    1º Ano/1º Semestre/Fundamentos de Programção 1/Frequências/
