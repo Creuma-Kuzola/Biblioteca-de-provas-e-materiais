@@ -4,7 +4,7 @@
 
 # Biblioteca de Provas e Materiais UCAN (Eng. Informática)
 
-Este repositório tem o objectivo de armazenar exemplos de provas passadas e materiais, que podem ajudar os estudantes a se prepararem tais cadeiras.
+Este repositório tem o objectivo de armazenar exemplos de provas passadas e materiais, que podem ajudar os estudantes a se prepararem nas tais cadeiras.
 
 ## Movitos de criação
 
